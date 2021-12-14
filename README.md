@@ -1,4 +1,4 @@
-# PlayStationDiscord
+# PlayStationDiscord - Modified by Red Prez
 
 [![Actions Status](https://github.com/Tustin/PlayStationDiscord/workflows/PlayStationDiscord%20Deploy/badge.svg)](https://github.com/Tustin/PlayStationDiscord/actions)
 ![License](https://img.shields.io/github/license/Tustin/PlayStationDiscord.svg?style=flat)
