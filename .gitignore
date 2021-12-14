@@ -1,0 +1,9 @@
+node_modules/
+dist/*
+!dist/app.html
+build/*
+!build/installer.nsh
+test/*
+*.css
+*.log
+.vscode/
